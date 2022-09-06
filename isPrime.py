@@ -9,4 +9,6 @@ def prime(n):
 
 n=int(input())
 prime(n)
-              
+
+#Input 3 Output prime
+#Input 6 Output not prime
